@@ -1,0 +1,12 @@
+/data
+.github/workflows/*.yml
+.vscode/
+.DS_Store
+node_modules/
+dist/
+.env
+*.log   
+
+# Ignore OS generated files
+Thumbs.db
+Desktop.ini     
