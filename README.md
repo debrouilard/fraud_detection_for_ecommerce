@@ -23,7 +23,6 @@ Python, Pandas, Scikit-learn, XGBoost, Jupyter Notebook, and Streamlit.
 
 3. Follow the instructions in the project notebooks or run the available application scripts.
 
-**Note:** Required datasets and model files must be available in the locations expected by the project.
 
 ## Purpose
 
