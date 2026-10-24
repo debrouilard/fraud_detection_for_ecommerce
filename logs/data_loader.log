@@ -1,0 +1,2 @@
+2026-10-24 12:42:37,739 - src.data_loader - INFO - Loading credit card data from C:\Users\Blen\Downloads\fraud-detection-for-e-commerce-and-bank-transactions-master-tsede\fraud-detection-for-e-commerce-and-bank-transactions-master\data\raw\creditcard.csv
+2026-10-24 12:42:37,749 - src.data_loader - ERROR - Credit card data file not found: C:\Users\Blen\Downloads\fraud-detection-for-e-commerce-and-bank-transactions-master-tsede\fraud-detection-for-e-commerce-and-bank-transactions-master\data\raw\creditcard.csv
